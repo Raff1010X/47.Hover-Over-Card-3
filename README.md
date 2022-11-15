@@ -1,8 +1,8 @@
-# Hover over card 3
+# Hover over card 3 and click
 
 ## Animated card
 
-Working example:https://raff1010x.github.io/47.Hover-Over-Card-3/
+Working example:https://raff1010x.github.io/47.Hover-Over-Card-3-And-Click/
 
 My git repo: https://github.com/Raff1010X/01.Roadmap
 
